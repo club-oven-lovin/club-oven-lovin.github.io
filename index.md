@@ -72,12 +72,12 @@ You can now add new Stuff documents, and list the Stuff you have created. Note y
 
 After logging in, here is the page that allows you to add new Stuff:
 
-<img src='/public/images/individual-recipes.png'>
+<img src='/public/images/search-recipes.png'>
 
 #### Individual Recipes
 
 After logging in, here is the page that allows you to list all the Stuff you have created:
 
-<img src='/public/images/search-recipes.png'>
+<img src='/public/images/individual-recipes.png'>
 
 You click the "Edit" link to go to the Edit Stuff page, shown next.
