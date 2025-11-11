@@ -11,10 +11,10 @@ export default function HomePage() {
       </p>
 
       <div className="d-flex justify-content-center gap-3 mt-4">
-        <Link href="/recipes">
+        <Link href="/browse-recipie">
           <Button variant="primary" size="lg">Browse Recipes</Button>
         </Link>
-        <Link href="/create">
+        <Link href="/add-recipe">
           <Button variant="outline-secondary" size="lg">Add Your Recipe</Button>
         </Link>
       </div>

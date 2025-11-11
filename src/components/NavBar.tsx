@@ -1,6 +1,7 @@
 'use client';
 
-import { Container, Navbar } from 'react-bootstrap';
+import Link from 'next/link';
+import { Container, Navbar, Nav } from 'react-bootstrap';
 
 const NavBar = () => (
   <Navbar bg="light" expand="lg">
