@@ -52,19 +52,19 @@ The next step is to use the Login menu to either Login to an existing account or
 
 Clicking on the Login link, then on the Sign In menu item displays this page:
 
-<img src='/public/images/user-homepage.png>
+<img src='/public/images/user-homepage.png'>
 
 #### User Profile
 
 Alternatively, clicking on the Login link, then on the Sign Up menu item displays this page:
 
-<img src='/public/images/user-profile.png>
+<img src='/public/images/user-profile.png'>
 
 #### Admin Homepage
 
 Once you log in (either to an existing account or by creating a new one), the navbar changes as follows:
 
-<img src='/public/images/admin-homepage.png>
+<img src='/public/images/admin-homepage.png'>
 
 You can now add new Stuff documents, and list the Stuff you have created. Note you cannot see any Stuff created by other users.
 
@@ -72,12 +72,12 @@ You can now add new Stuff documents, and list the Stuff you have created. Note y
 
 After logging in, here is the page that allows you to add new Stuff:
 
-<img src='/public/images/individual-recipes.png>
+<img src='/public/images/individual-recipes.png'>
 
 #### Individual Recipes
 
 After logging in, here is the page that allows you to list all the Stuff you have created:
 
-<img src='/public/images/search-homepage.png>
+<img src='/public/images/search-homepage.png'>
 
 You click the "Edit" link to go to the Edit Stuff page, shown next.
