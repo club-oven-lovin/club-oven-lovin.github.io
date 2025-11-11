@@ -10,46 +10,24 @@
   - Create recipe management functionality
     - Enable students to:
     - Browse, search, and filter recipes by time, cost, ingredients, or dietary needs.
-  Add new recipes with descriptions, images, ingredients, and preparation steps.
-  Build vendor and ingredient management tools
-   Allow vendors to:
-  Create profiles with store name, location, and hours.
-  Add and update ingredient availability, prices, and sizes.
-  Link ingredients to recipes automatically.
-  Implement admin management features
-   Enable admins to:
-
-
-Approve, edit, or delete user-submitted recipes.
-
-
-Manage user roles and vendor profiles.
-
-
-Remove inappropriate or inaccurate content.
-
-
-Integrate cost and availability tracking
- Automatically calculate:
-
-
-Cost per recipe and per serving.
-
-
-Where each ingredient can be found near campus.
-
-
-Develop a recipe search and filtering system
- Allow users to quickly find recipes based on:
-
-
-Dietary restrictions (vegan, gluten-free, etc.)
-
-
-Preparation time
-
-
-Ingredient availability
-
-
-Estimated total cost
+    - Add new recipes with descriptions, images, ingredients, and preparation steps.
+  - Build vendor and ingredient management tools
+    Allow vendors to:
+    - Create profiles with store name, location, and hours.
+    - Add and update ingredient availability, prices, and sizes.
+    - Link ingredients to recipes automatically.
+    - Implement admin management features
+    - Enable admins to:
+  - Approve, edit, or delete user-submitted recipes.
+  - Manage user roles and vendor profiles.
+  - Remove inappropriate or inaccurate content.
+  - Integrate cost and availability tracking
+  - Automatically calculate:
+    - Cost per recipe and per serving.
+    - Where each ingredient can be found near campus.
+  - Develop a recipe search and filtering system
+    - Allow users to quickly find recipes based on:
+    - Dietary restrictions (vegan, gluten-free, etc.)
+    - Preparation time
+    - Ingredient availability
+    - Estimated total cost
