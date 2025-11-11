@@ -43,21 +43,24 @@ show_header: false
 
   - The entry point for all users, providing options to log in, register, and access basic information about the platform and how it      works.
 
-<img src='/public/images/landing-page.png'>
+  <img src='/public/images/landing-page.png'>
 
-
-#### User Homepage
+#### User Home page
 
   - The main dashboard for students, showing recipes, search tools, and quick access to their profile and contributed recipes.
 
-<img src='/public/images/user-homepage.png'>
+  <img src='/public/images/user-homepage.png'>
 
+#### Vendor Home Page
+
+  - A dashboard for vendors to view their profile, ingredient listings, and links to add or update ingredient information for recipes.
+
+  <img src='/public/images/vendor-homepage.png'>
 #### Admin Homepage
 
   - A central page for admins to manage users, approve or edit recipes, and monitor site content for appropriateness and accuracy.
 
-
-<img src='/public/images/admin-homepage.png'>
+  <img src='/public/images/admin-homepage.png'>
 
 ### User Profile Page
 
