@@ -41,43 +41,41 @@ show_header: false
 
 #### Landing page
 
-When you retrieve the app at http://localhost:3000, this is what should be displayed:
-
+  - The entry point for all users, providing options to log in, register, and access basic information about the platform and how it      works.
 
 <img src='/public/images/landing-page.png'>
 
-The next step is to use the Login menu to either Login to an existing account or register a new account.
 
 #### User Homepage
 
-Clicking on the Login link, then on the Sign In menu item displays this page:
+  - The main dashboard for students, showing recipes, search tools, and quick access to their profile and contributed recipes.
 
 <img src='/public/images/user-homepage.png'>
 
-#### User Profile
-
-Alternatively, clicking on the Login link, then on the Sign Up menu item displays this page:
-
-<img src='/public/images/user-profile.png'>
-
 #### Admin Homepage
 
-Once you log in (either to an existing account or by creating a new one), the navbar changes as follows:
+  - A central page for admins to manage users, approve or edit recipes, and monitor site content for appropriateness and accuracy.
+
 
 <img src='/public/images/admin-homepage.png'>
 
-You can now add new Stuff documents, and list the Stuff you have created. Note you cannot see any Stuff created by other users.
+### User Profile Page
+
+  - Displays a student’s personal information, contributed recipes, favorite recipes, and options to edit profile details and dietary preferences.
+
+
+  <img src='/public/images/user-profile.png'>
 
 #### Search Recipes
 
-After logging in, here is the page that allows you to add new Stuff:
+  - Allows users to search, filter, and sort recipes based on ingredients, dietary restrictions, preparation time, and estimated cost.
 
 <img src='/public/images/search-recipes.png'>
 
 #### Individual Recipes
 
-After logging in, here is the page that allows you to list all the Stuff you have created:
+  - Shows a complete recipe with description, ingredients, preparation steps, estimated cost and servings, dietary notes, images, and nearby vendors for each ingredient.
+
+
 
 <img src='/public/images/individual-recipes.png'>
-
-You click the "Edit" link to go to the Edit Stuff page, shown next.
