@@ -25,13 +25,15 @@ show_header: false
       - Approve, edit, or delete user-submitted recipes.
       - Manage user roles and vendor profiles.
       - Remove inappropriate or inaccurate content.
-      - Integrate cost and availability tracking
-  - Automatically calculate:
-    - Cost per recipe and per serving.
-    - Where each ingredient can be found near campus.
+  - Provide basic user guidance
+    - Help new users understand how to navigate the site and contribute recipes or vendor data.
+  - Integrate cost and availability tracking
+    - Automatically calculate:
+      - Cost per recipe and per serving.
+      - Where each ingredient can be found near campus.
   - Develop a recipe search and filtering system
     - Allow users to quickly find recipes based on:
-    - Dietary restrictions (vegan, gluten-free, etc.)
-    - Preparation time
-    - Ingredient availability
-    - Estimated total cost
+      - Dietary restrictions (vegan, gluten-free, etc.)
+      - Preparation time
+      - Ingredient availability
+      - Estimated total cost
