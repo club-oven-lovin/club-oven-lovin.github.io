@@ -43,7 +43,8 @@ show_header: false
 
 When you retrieve the app at http://localhost:3000, this is what should be displayed:
 
-<img src='/public/images/admin-homepage.png'>
+
+<img src='/public/images/landing-page.png'>
 
 The next step is to use the Login menu to either Login to an existing account or register a new account.
 
@@ -51,19 +52,19 @@ The next step is to use the Login menu to either Login to an existing account or
 
 Clicking on the Login link, then on the Sign In menu item displays this page:
 
-![](https://github.com/ics-software-engineering/nextjs-application-template/raw/main/doc/signin-page.png)
+<img src='/public/images/user-homepage.png>
 
 #### Register page
 
 Alternatively, clicking on the Login link, then on the Sign Up menu item displays this page:
 
-![](https://github.com/ics-software-engineering/nextjs-application-template/raw/main/doc/register-page.png)
+<img src='/public/images/user-profile.png>
 
 #### Landing (after Login) page, non-Admin user
 
 Once you log in (either to an existing account or by creating a new one), the navbar changes as follows:
 
-![](https://github.com/ics-software-engineering/nextjs-application-template/raw/main/doc/landing-after-login-page.png)
+<img src='/public/images/admin-homepage.png>
 
 You can now add new Stuff documents, and list the Stuff you have created. Note you cannot see any Stuff created by other users.
 
@@ -71,13 +72,13 @@ You can now add new Stuff documents, and list the Stuff you have created. Note y
 
 After logging in, here is the page that allows you to add new Stuff:
 
-![](https://github.com/ics-software-engineering/nextjs-application-template/raw/main/doc/add-stuff-page.png)
+<img src='/public/images/individual-recipes.png>
 
 #### List Stuff page
 
 After logging in, here is the page that allows you to list all the Stuff you have created:
 
-![](https://github.com/ics-software-engineering/nextjs-application-template/raw/main/doc/list-stuff-page.png)
+<img src='/public/images/search-homepage.png>
 
 You click the "Edit" link to go to the Edit Stuff page, shown next.
 
