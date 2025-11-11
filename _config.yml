@@ -1,8 +1,5 @@
-title: nextjs-example-form
-description: How to implement forms in Next.js using React Hook Form
-google_analytics:
-show_downloads: true
+title: "Club Oven Lovin"
 theme: jekyll-theme-cayman
 
-gems:
-  - jekyll-mentions
+url: "https://club-oven-lovin.github.io"
+baseurl: "/club-oven-lovin"
