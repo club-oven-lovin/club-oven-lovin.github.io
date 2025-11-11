@@ -37,3 +37,12 @@ show_header: false
       - Preparation time
       - Ingredient availability
       - Estimated total cost
+     
+
+#### Landing page
+
+When you retrieve the app at http://localhost:3000, this is what should be displayed:
+
+![](https://github.com/ics-software-engineering/nextjs-application-template/raw/main/doc/landing-page.png)
+
+The next step is to use the Login menu to either Login to an existing account or register a new account.
