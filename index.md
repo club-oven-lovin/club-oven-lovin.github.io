@@ -78,6 +78,6 @@ After logging in, here is the page that allows you to add new Stuff:
 
 After logging in, here is the page that allows you to list all the Stuff you have created:
 
-<img src='/public/images/search-homepage.png'>
+<img src='/public/images/search-recipies.png'>
 
 You click the "Edit" link to go to the Edit Stuff page, shown next.
