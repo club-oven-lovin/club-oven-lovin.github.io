@@ -1,5 +1,8 @@
-title: "Club Oven Lovin"
+title: Club Oven Lovin
+description: 
+google_analytics:
+show_downloads: true
 theme: jekyll-theme-cayman
 
-url: "https://club-oven-lovin.github.io"
-baseurl: "/club-oven-lovin"
+gems:
+  - jekyll-mentions
