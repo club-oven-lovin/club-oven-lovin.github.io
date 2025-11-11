@@ -3,7 +3,7 @@
   The system connects students, local vendors, and admins to create a community-driven recipe-sharing space. Students can browse and contribute recipes that include ingredient availability, cost, prep time, servings, and    dietary details. Vendors can provide information about ingredient pricing and stock, while admins oversee and manage all site content.
   This project aims to make healthy, realistic cooking accessible to students with limited resources while supporting local food options.
   
-  Goals:
+# Goals:
 
   - Implement user authentication and role-based access
     - Allow users to register and log in as students, vendors, or admins, each with distinct permissions and access to different system features.
