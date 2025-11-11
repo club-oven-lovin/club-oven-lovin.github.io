@@ -1,5 +1,5 @@
 ---
-title: "Club-Oven-Lovin"
+title: "Club Oven Lovin"
 layout: default
 show_header: false
 ---
