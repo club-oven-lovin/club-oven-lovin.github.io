@@ -1,6 +1,8 @@
+---
 title: "Club-Oven-Lovin"
 layout: default
 show_header: false
+---
 
 # Project Description
   Club Oven Lovin’ is a web-based platform that helps college students find, share, and cook affordable, easy-to-make meals using minimal kitchen resources.
