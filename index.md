@@ -4,6 +4,18 @@ layout: default
 show_header: false
 ---
 
+# Team Members
+
+**Club Oven Lovin**
+
+- Koichiro Amakasu
+- Miron Suarez
+- Chloe Teljeiro
+- Nathan Vogel
+- Kevin Lee
+
+[Team Contract](https://docs.google.com/document/d/1fXQvWZ49DqS4yCMb3UyWqb7hSrQO9jujz0mKL-YnZF0/edit?usp=sharing)
+
 # Project Description
   Club Oven Lovin’ is a web-based platform that helps college students find, share, and cook affordable, easy-to-make meals using minimal kitchen resources.
   The system connects students, local vendors, and admins to create a community-driven recipe-sharing space. Students can browse and contribute recipes that include ingredient availability, cost, prep time, servings, and    dietary details. Vendors can provide information about ingredient pricing and stock, while admins oversee and manage all site content.
@@ -79,3 +91,4 @@ show_header: false
 
 
 <img src='/public/images/individual-recipes.png'>
+
