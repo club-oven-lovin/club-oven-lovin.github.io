@@ -6,8 +6,6 @@ show_header: false
 
 # Team Members
 
-**Club Oven Lovin**
-
 - Koichiro Amakasu
 - Miron Suarez
 - Chloe Teljeiro
