@@ -70,14 +70,14 @@ show_header: false
 
   - A central page for admins to manage users, approve or edit recipes, and monitor site content for appropriateness and accuracy.
 
-  <img src='/public/images/admin-homepage.png'>
+  <img src='/public/m1-updated-images/Admin-dashboard.png'>
 
 ### User Profile Page
 
   - Displays a student’s personal information, contributed recipes, favorite recipes, and options to edit profile details and dietary preferences.
 
 
-  <img src='/public/images/user-profile.png'>
+  <img src='/public/m1-updated-images/user-profile.png>
 
 #### Search Recipes
 
