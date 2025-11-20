@@ -53,13 +53,13 @@ show_header: false
 
   - The entry point for all users, providing options to log in, register, and access basic information about the platform and how it      works.
 
-  <img src='/public/images/landing-page.png'>
+  <img src='/public/m1-updated-images/homepage.png'>
 
 #### User Home page
 
   - The main dashboard for students, showing recipes, search tools, and quick access to their profile and contributed recipes.
 
-  <img src='/public/images/user-homepage.png'>
+  <img src='/public/m1-updated-images/homepage.png'>
 
 #### Vendor Home Page
 
