@@ -77,7 +77,7 @@ show_header: false
   - Displays a student’s personal information, contributed recipes, favorite recipes, and options to edit profile details and dietary preferences.
 
 
-  <img src='/public/m1-updated-images/user-profile.png>
+  <img src='/public/m1-updated-images/user-profile.png'>
 
 #### Search Recipes
 
