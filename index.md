@@ -59,7 +59,7 @@ show_header: false
 
   - The main dashboard for students, showing recipes, search tools, and quick access to their profile and contributed recipes.
 
-  <img src='/public/m1-updated-images/homepage.png'>
+  <img src='/public/m1-updated-images/user-home-page.png'>
 
 #### Vendor Home Page
 
