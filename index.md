@@ -12,6 +12,7 @@ show_header: false
 - Nathan Vogel
 - Kevin Lee
 
+# Project Links
 
 - [Organization Page](https://github.com/club-oven-lovin)
 - [Team Contract](https://docs.google.com/document/d/1fXQvWZ49DqS4yCMb3UyWqb7hSrQO9jujz0mKL-YnZF0/edit?usp=sharing)
