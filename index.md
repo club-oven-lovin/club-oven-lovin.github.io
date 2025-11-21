@@ -65,7 +65,7 @@ show_header: false
 
   - A dashboard for vendors to view their profile, ingredient listings, and links to add or update ingredient information for recipes.
 
-  <img src='/public/images/vendor-homepage.png'>
+  <img src='/public/m1-updated-images/mockup-vendor-home-page.png'>
 #### Admin Homepage
 
   - A central page for admins to manage users, approve or edit recipes, and monitor site content for appropriateness and accuracy.
@@ -88,8 +88,6 @@ show_header: false
 #### Individual Recipes
 
   - Shows a complete recipe with description, ingredients, preparation steps, estimated cost and servings, dietary notes, images, and nearby vendors for each ingredient.
-
-
 
 <img src='/public/images/individual-recipes.png'>
 
