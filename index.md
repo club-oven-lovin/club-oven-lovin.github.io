@@ -12,7 +12,13 @@ show_header: false
 - Nathan Vogel
 - Kevin Lee
 
-[Team Contract](https://docs.google.com/document/d/1fXQvWZ49DqS4yCMb3UyWqb7hSrQO9jujz0mKL-YnZF0/edit?usp=sharing)
+# Project Links
+
+- [Organization Page](https://github.com/club-oven-lovin)
+- [Team Contract](https://docs.google.com/document/d/1fXQvWZ49DqS4yCMb3UyWqb7hSrQO9jujz0mKL-YnZF0/edit?usp=sharing)
+- [Deployment](https://club-oven-lovin.vercel.app/)
+- [M1 Project page](https://github.com/orgs/club-oven-lovin/projects/2)
+- [M2 Project page](https://github.com/orgs/club-oven-lovin/projects/4)
 
 
 
