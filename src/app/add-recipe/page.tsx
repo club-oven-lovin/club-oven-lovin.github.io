@@ -1,5 +1,10 @@
-export default function AddRecipePage() {
+import React from 'react';
+
+export default function AddRecipePage(): JSX.Element {
   return (
-	<h1>Add Recipe</h1>
-  )
+    <div>
+      <h1>Add Recipe</h1>
+      <p>Form goes here</p>
+    </div>
+  );
 }

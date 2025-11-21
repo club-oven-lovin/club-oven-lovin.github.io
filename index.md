@@ -4,10 +4,20 @@ layout: default
 show_header: false
 ---
 
-- [Organization Page](https://github.com/club-oven-lovin)
-- [Deployment](https://club-oven-lovin.vercel.app/)
-- [M1 Project page](https://github.com/orgs/club-oven-lovin/projects/2)
-- [M2 Project page](https://github.com/orgs/club-oven-lovin/projects/4)
+# Team Members
+
+- Koichiro Amakasu
+- Miron Suarez
+- Chloe Teljeiro
+- Nathan Vogel
+- Kevin Lee
+
+
+[Organization Page](https://github.com/club-oven-lovin)
+[Team Contract](https://docs.google.com/document/d/1fXQvWZ49DqS4yCMb3UyWqb7hSrQO9jujz0mKL-YnZF0/edit?usp=sharing)
+[Deployment](https://club-oven-lovin.vercel.app/)
+[M1 Project page](https://github.com/orgs/club-oven-lovin/projects/2)
+[M2 Project page](https://github.com/orgs/club-oven-lovin/projects/4)
 
 # Project Description
   Club Oven Lovin’ is a web-based platform that helps college students find, share, and cook affordable, easy-to-make meals using minimal kitchen resources.
@@ -48,13 +58,13 @@ show_header: false
 
   - The entry point for all users, providing options to log in, register, and access basic information about the platform and how it      works.
 
-  <img src='/public/images/landing-page.png'>
+  <img src='/public/m1-updated-images/homepage.png'>
 
 #### User Home page
 
   - The main dashboard for students, showing recipes, search tools, and quick access to their profile and contributed recipes.
 
-  <img src='/public/images/user-homepage.png'>
+  <img src='/public/m1-updated-images/user-home-page.png'>
 
 #### Vendor Home Page
 
@@ -65,14 +75,14 @@ show_header: false
 
   - A central page for admins to manage users, approve or edit recipes, and monitor site content for appropriateness and accuracy.
 
-  <img src='/public/images/admin-homepage.png'>
+  <img src='/public/m1-updated-images/Admin-dashboard.png'>
 
 ### User Profile Page
 
   - Displays a student’s personal information, contributed recipes, favorite recipes, and options to edit profile details and dietary preferences.
 
 
-  <img src='/public/images/user-profile.png'>
+  <img src='/public/m1-updated-images/user-profile.png'>
 
 #### Search Recipes
 
@@ -87,3 +97,4 @@ show_header: false
 
 
 <img src='/public/images/individual-recipes.png'>
+
