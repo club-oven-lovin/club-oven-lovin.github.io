@@ -4,6 +4,11 @@ layout: default
 show_header: false
 ---
 
+- [Organization Page](https://github.com/club-oven-lovin)
+- [Deployment](https://club-oven-lovin.vercel.app/)
+- [M1 Project page](https://github.com/orgs/club-oven-lovin/projects/2)
+- [M2 Project page](https://github.com/orgs/club-oven-lovin/projects/4)
+
 # Project Description
   Club Oven Lovin’ is a web-based platform that helps college students find, share, and cook affordable, easy-to-make meals using minimal kitchen resources.
   The system connects students, local vendors, and admins to create a community-driven recipe-sharing space. Students can browse and contribute recipes that include ingredient availability, cost, prep time, servings, and    dietary details. Vendors can provide information about ingredient pricing and stock, while admins oversee and manage all site content.
