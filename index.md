@@ -21,6 +21,7 @@ show_header: false
 - [Team Contract](https://docs.google.com/document/d/1fXQvWZ49DqS4yCMb3UyWqb7hSrQO9jujz0mKL-YnZF0/edit?usp=sharing)
 - [M1 Project page](https://github.com/orgs/club-oven-lovin/projects/2)
 - [M2 Project page](https://github.com/orgs/club-oven-lovin/projects/4)
+- [M3 Project page](https://github.com/orgs/club-oven-lovin/projects/6)
 
 # Deployment
 - [Vercel Page](https://club-oven-lovin.vercel.app/)
