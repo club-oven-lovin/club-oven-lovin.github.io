@@ -4,7 +4,8 @@ layout: default
 show_header: false
 ---
 
-![ci-Club Oven Lovin'](https://github.com/club-oven-lovin/club-oven-lovin/workflows/ci.yml/badge.svg)
+[![ci](https://github.com/club-oven-lovin/club-oven-lovin/actions/workflows/ci.yml/badge.svg)](https://github.com/club-oven-lovin/club-oven-lovin/actions/workflows/ci.yml)
+
 
 # Team Members
 
