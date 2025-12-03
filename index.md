@@ -61,6 +61,7 @@ show_header: false
       - Ingredient availability
       - Estimated total cost
      
+# User Guide:
 
 #### Landing page
 
@@ -114,3 +115,4 @@ show_header: false
 
   <img src='/public/images/individual-recipes.png'>
 
+# Developer Guide:
