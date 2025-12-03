@@ -116,3 +116,163 @@ show_header: false
   <img src='/public/images/individual-recipes.png'>
 
 # Developer Guide:
+
+This guide helps developers get up and running with Club Oven Lovin, including setup, running, and making changes.
+
+1. System Requirements
+
+Before starting, make sure you have:
+
+* **Node.js v18 or later**
+* **npm** (comes with Node.js)
+* **Git**
+* **Visual Studio Code** (or another code editor)
+* **PostgreSQL** (local or Vercel-hosted)
+* **A modern browser** such as Chrome, Firefox, or Safari
+
+---
+
+2. Get the Source Code
+
+Clone the repository locally:
+
+```bash
+git clone https://github.com/<your-org>/club-oven-lovin.git
+```
+
+Navigate into the project directory:
+
+```bash
+cd club-oven-lovin
+```
+
+---
+
+3. Set Up Environment Variables
+
+Create a **.env** file in the project root and include the following:
+
+```env
+NEXTAUTH_URL=http://localhost:3000
+NEXTAUTH_SECRET=your-secret-here
+
+POSTGRES_DATABASE=verceldb
+POSTGRES_HOST=your-host
+POSTGRES_USER=default
+POSTGRES_PASSWORD=your-password
+POSTGRES_PRISMA_URL=postgres://...
+
+DATABASE_URL=${POSTGRES_PRISMA_URL}
+```
+
+---
+
+4. Install Dependencies
+
+Run:
+
+```bash
+npm install
+```
+
+---
+
+5. Database Setup
+
+Generate the Prisma client:
+
+```bash
+npx prisma generate
+```
+
+Apply the database schema:
+
+```bash
+npx prisma db push
+```
+
+Optionally, populate the database with sample data:
+
+```bash
+npx prisma db seed
+```
+
+---
+
+6. Run Locally
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Open the app in your browser at:
+
+```
+http://localhost:3000
+```
+
+---
+
+7. Project Overview
+
+* **app/** — main pages and routes
+* **components/** — reusable UI components
+* **lib/** — utilities, authentication, Prisma setup
+* **prisma/** — database schema and seed files
+* **public/** — static files and images
+* **styles/** — global styling
+
+---
+
+8. Making Changes
+
+### Pages
+
+Add new pages under `app/`. Example:
+
+```
+app/new-page/page.tsx → accessible at /new-page
+```
+
+### Components
+
+Add or update components in:
+
+```
+components/
+```
+
+### Database
+
+Edit the schema in:
+
+```
+prisma/schema.prisma
+```
+
+Then run:
+
+```bash
+npx prisma db push
+npx prisma generate
+```
+
+### API Routes
+
+Add or update routes in:
+
+```
+app/api/
+```
+
+### Authentication
+
+Handled in:
+
+```
+lib/authOptions.ts
+```
+
+You can modify sign-in/session behavior or restrict access by role.
