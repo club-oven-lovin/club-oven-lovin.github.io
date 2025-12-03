@@ -117,9 +117,9 @@ show_header: false
 
 # Developer Guide:
 
-This guide helps developers get up and running with Club Oven Lovin, including setup, running, and making changes.
+This guide is to help developers get up and running with Club Oven Lovin, including setup, running, and making changes.
 
-1. System Requirements
+## 1. System Requirements
 
 Before starting, make sure you have:
 
@@ -132,7 +132,7 @@ Before starting, make sure you have:
 
 ---
 
-2. Get the Source Code
+## 2. Get the Source Code
 
 Clone the repository locally:
 
@@ -148,7 +148,7 @@ cd club-oven-lovin
 
 ---
 
-3. Set Up Environment Variables
+## 3. Set Up Environment Variables
 
 Create a **.env** file in the project root and include the following:
 
@@ -167,7 +167,7 @@ DATABASE_URL=${POSTGRES_PRISMA_URL}
 
 ---
 
-4. Install Dependencies
+## 4. Install Dependencies
 
 Run:
 
@@ -177,7 +177,7 @@ npm install
 
 ---
 
-5. Database Setup
+## 5. Database Setup
 
 Generate the Prisma client:
 
@@ -199,7 +199,7 @@ npx prisma db seed
 
 ---
 
-6. Run Locally
+## 6. Run Locally
 
 Start the development server:
 
@@ -215,7 +215,7 @@ http://localhost:3000
 
 ---
 
-7. Project Overview
+## 7. Project Overview
 
 * **app/** — main pages and routes
 * **components/** — reusable UI components
@@ -226,7 +226,7 @@ http://localhost:3000
 
 ---
 
-8. Making Changes
+## 8. Making Changes
 
 ### Pages
 
