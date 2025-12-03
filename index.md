@@ -165,6 +165,8 @@ POSTGRES_PRISMA_URL=postgres://...
 DATABASE_URL=${POSTGRES_PRISMA_URL}
 ```
 
+If you plan to deploy to Vercel, set these environment variables in the Settings > Environment Variables section.
+
 ---
 
 ## 4. Install Dependencies
@@ -233,7 +235,7 @@ http://localhost:3000
 Add new pages under `app/`. Example:
 
 ```
-app/new-page/page.tsx → accessible at /new-page
+app/new-page/page.tsx
 ```
 
 ### Components
