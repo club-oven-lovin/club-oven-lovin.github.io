@@ -18,6 +18,7 @@ show_header: false
 - [Team Contract](https://docs.google.com/document/d/1fXQvWZ49DqS4yCMb3UyWqb7hSrQO9jujz0mKL-YnZF0/edit?usp=sharing)
 - [M1 Project page](https://github.com/orgs/club-oven-lovin/projects/2)
 - [M2 Project page](https://github.com/orgs/club-oven-lovin/projects/4)
+- [M3 Project page](https://github.com/orgs/club-oven-lovin/projects/6)
 
 # Deployment
 - [Vercel Page](https://club-oven-lovin.vercel.app/)
@@ -62,19 +63,19 @@ show_header: false
 
   - The entry point for all users, providing options to log in, register, and access basic information about the platform and how it      works.
 
-  <img src='/public/m1-updated-images/homepage.png'>
+  <img src='/public/m2-updated-images/landing-page-screenshot.png'>
 
 #### User Home page
 
   - The main dashboard for students, showing recipes, search tools, and quick access to their profile and contributed recipes.
 
-  <img src='/public/m1-updated-images/user-home-page.png'>
+  <img src='/public/m2-updated-images/user-home-page-screenshot.png'>
 
 #### Vendor Home Page
 
   - A dashboard for vendors to view their profile, ingredient listings, and links to add or update ingredient information for recipes.
 
-  <img src='/public/m1-updated-images/mockup-vendor-home-page.png'>
+  <img src='/public/m2-updated-images/vendor-page-screenshot.png'>
 
 #### Admin Homepage
 
@@ -86,18 +87,27 @@ show_header: false
 
   - Displays a student’s personal information, contributed recipes, favorite recipes, and options to edit profile details and dietary preferences.
 
+  <img src='/public/m2-updated-images/userprofile-screenshot.png'>
 
-  <img src='/public/m1-updated-images/user-profile.png'>
+  - Allows the student to update personal information and modify dietary preferences.
+
+  <img src='/public/m2-updated-images/userprofile-edit-screenshot.png'>
+
+#### Add Recipe
+
+  - Displays a form for students to submit a new recipe. The form includes fields for a recipe image URL, recipe name, ingredients, step-by-step instructions, custom tags, and checkboxes for dietary restriction labels.
+
+  <img src='/public/m2-updated-images/add-recipe-screenshot.png'>
 
 #### Search Recipes
 
   - Allows users to search, filter, and sort recipes based on ingredients, dietary restrictions, preparation time, and estimated cost.
 
-<img src='/public/images/search-recipes.png'>
+  <img src='/public/m2-updated-images/browse-recipes-screenshot.png'>
 
 #### Individual Recipes
 
   - Shows a complete recipe with description, ingredients, preparation steps, estimated cost and servings, dietary notes, images, and nearby vendors for each ingredient.
 
-<img src='/public/images/individual-recipes.png'>
+  <img src='/public/images/individual-recipes.png'>
 
