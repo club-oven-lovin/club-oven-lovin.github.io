@@ -4,6 +4,8 @@ layout: default
 show_header: false
 ---
 
+![ci-badge](https://github.com/club-oven-lovin/club-oven-lovin/workflows/ci/badge.svg
+
 # Team Members
 
 - Koichiro Amakasu
