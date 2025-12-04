@@ -4,6 +4,8 @@ layout: default
 show_header: false
 ---
 
+# Continuous Integration Status:
+
 [![ci](https://github.com/club-oven-lovin/club-oven-lovin/actions/workflows/ci.yml/badge.svg)](https://github.com/club-oven-lovin/club-oven-lovin/actions/workflows/ci.yml)
 
 
