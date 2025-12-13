@@ -68,31 +68,31 @@ show_header: false
 
   - The entry point for all users, providing options to log in, register, and access basic information about the platform and how it      works.
 
-  <img src='/public/m3-updated-images/landingpage.png'>
+  <img src='/public/m3-updated-images/landingpage.PNG'>
 
 #### User Home page
 
   - The main dashboard for students, showing recipes, search tools, and quick access to their profile and contributed recipes.
 
-  <img src='/public/m3-updated-images/userhomepage.png'>
+  <img src='/public/m3-updated-images/userhomepage.PNG'>
 
 #### Vendor Home Page
 
   - A dashboard for vendors to view their profile, ingredient listings, and links to add or update ingredient information for recipes.
 
-  <img src='/public/m3-updated-images/vendorhomepage.png'>
+  <img src='/public/m3-updated-images/vendorhomepage.PNG'>
 
 #### Admin Homepage
 
   - A central page for admins to manage users, approve or edit recipes, and monitor site content for appropriateness and accuracy.
 
-  <img src='/public/m3-updated-images/adminhomepage.png'>
+  <img src='/public/m3-updated-images/adminhomepage.PNG'>
 
 ### User Profile Page
 
   - Displays a student’s personal information, contributed recipes, favorite recipes, and options to edit profile details and dietary preferences.
 
-  <img src='/public/m3-updated-images/userprofilepage.png'>
+  <img src='/public/m3-updated-images/userprofilepage.PNG'>
 
   - Allows the student to update personal information and modify dietary preferences.
 
@@ -102,7 +102,7 @@ show_header: false
 
   - Displays a form for students to submit a new recipe. The form includes fields for a recipe image URL, recipe name, ingredients, step-by-step instructions, custom tags, and checkboxes for dietary restriction labels.
 
-  <img src='/public/m3-updated-images/addrecipe.png'>
+  <img src='/public/m3-updated-images/addrecipe.PNG'>
 
 #### Search Recipes
 
@@ -114,7 +114,7 @@ show_header: false
 
   - Shows a complete recipe with description, ingredients, preparation steps, estimated cost and servings, dietary notes, images, and nearby vendors for each ingredient.
 
-  <img src='/public/m3-updated-images/individualrecipes.png'>
+  <img src='/public/m3-updated-images/individualrecipes.PNG'>
 
 
 # Community Feedback
