@@ -119,6 +119,33 @@ show_header: false
 
 # Community Feedback
 
+## 👍 Things That Were Liked
+
+- **Relatable, welcoming experience**  
+  The landing hero, quick stats, and personalized greetings make the app feel active, student-focused, and welcoming right away.
+
+- **Strong dietary awareness**  
+  Dietary badges on profiles and recipe cards make it easy to identify vegetarian, nut-free, and dairy-free options at a glance.
+
+- **Effective search and filtering foundations**  
+  Search supports ingredients, tags, and dietary flags, helping users narrow recipes to fit their needs quickly.
+
+- **High-quality recipe and vendor integration**  
+  Recipe detail pages break down ingredients and show nearby vendors with prices, which is especially useful for planning and budgeting.
+
+## ⚠️ Constructive Criticism
+
+- **Search limitations**  
+  Search requires all words to match and ignores short terms, making it hard to find common abbreviations (e.g., “PB,” “ramen”).
+
+- **Missing Cook time**  
+  Many recipe cards show “N/A” for cook time and cost.
+
+- **No autosave or draft support**  
+  Contributors risk losing work when creating long recipes, especially on mobile or unstable connections.
+
+
+
 # Developer Guide:
 
 This guide is to help developers get up and running with Club Oven Lovin, including setup, running, and making changes.
